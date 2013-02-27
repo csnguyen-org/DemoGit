@@ -19,6 +19,7 @@
 		6FC2041716DE0A4800EA36AC /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6FC2041516DE0A4800EA36AC /* MainStoryboard_iPhone.storyboard */; };
 		6FC2041A16DE0A4800EA36AC /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6FC2041816DE0A4800EA36AC /* MainStoryboard_iPad.storyboard */; };
 		6FC2041D16DE0A4800EA36AC /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FC2041C16DE0A4800EA36AC /* ViewController.m */; };
+		6FC2042616DE12C100EA36AC /* arrow_down.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FC2042516DE12C100EA36AC /* arrow_down.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		6FC2041916DE0A4800EA36AC /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
 		6FC2041B16DE0A4800EA36AC /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		6FC2041C16DE0A4800EA36AC /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		6FC2042516DE12C100EA36AC /* arrow_down.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arrow_down.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 		6FC2040316DE0A4800EA36AC /* DemoGit */ = {
 			isa = PBXGroup;
 			children = (
+				6FC2042516DE12C100EA36AC /* arrow_down.png */,
 				6FC2040C16DE0A4800EA36AC /* AppDelegate.h */,
 				6FC2040D16DE0A4800EA36AC /* AppDelegate.m */,
 				6FC2041516DE0A4800EA36AC /* MainStoryboard_iPhone.storyboard */,
@@ -167,6 +170,7 @@
 				6FC2041416DE0A4800EA36AC /* Default-568h@2x.png in Resources */,
 				6FC2041716DE0A4800EA36AC /* MainStoryboard_iPhone.storyboard in Resources */,
 				6FC2041A16DE0A4800EA36AC /* MainStoryboard_iPad.storyboard in Resources */,
+				6FC2042616DE12C100EA36AC /* arrow_down.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -312,6 +316,7 @@
 				6FC2042216DE0A4800EA36AC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
