@@ -19,13 +19,13 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     // Add comment by csnguyen-yahoo 2nd
-    // Add comment by csnguyen-gmail 1st
 }
 
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+    // csnguyen-yahoo-branch add
 }
 
 @end
